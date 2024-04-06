@@ -1,50 +1,33 @@
-<div align="center">
-    <img src="logo.png" alt="Tania The Farmer Journal" width="200">
-    <h1>The Farmer Journal</h1>
-    <img src="https://opencollective.com/tania/tiers/backer/badge.svg?label=backer&color=brightgreen" />
-    <img src="https://opencollective.com/tania/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen" />
-    <img src="https://img.shields.io/badge/semver-2.0.0-green.svg?maxAge=2592000" alt="semver">
-    <a href="https://opensource.org/licenses/Apache-2.0" target="_blank"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/usetania/tania-core/blob/2.0-dev/logo.png"><img src="/usetania/tania-core/raw/2.0-dev/logo.png" alt="塔尼亚农民杂志" width="200" style="max-width: 100%;"></a>
+    <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">农民杂志</font></font></h1><a id="user-content-the-farmer-journal" class="anchor" aria-label="永久链接：农民杂志" href="#the-farmer-journal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a6dc47a763e9fd7387fe40b90d1dd8afc1aee271c5c6fcd45d2a1db57ce8e49/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f74696572732f6261636b65722f62616467652e7376673f6c6162656c3d6261636b657226636f6c6f723d627269676874677265656e"><img src="https://camo.githubusercontent.com/1a6dc47a763e9fd7387fe40b90d1dd8afc1aee271c5c6fcd45d2a1db57ce8e49/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f74696572732f6261636b65722f62616467652e7376673f6c6162656c3d6261636b657226636f6c6f723d627269676874677265656e" data-canonical-src="https://opencollective.com/tania/tiers/backer/badge.svg?label=backer&amp;color=brightgreen" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ba3e0ff646fe6ddc8a7e618864679979a52fb26ab581e848b39489d7b55bc65d/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f74696572732f73706f6e736f722f62616467652e7376673f6c6162656c3d73706f6e736f7226636f6c6f723d627269676874677265656e"><img src="https://camo.githubusercontent.com/ba3e0ff646fe6ddc8a7e618864679979a52fb26ab581e848b39489d7b55bc65d/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f74696572732f73706f6e736f722f62616467652e7376673f6c6162656c3d73706f6e736f7226636f6c6f723d627269676874677265656e" data-canonical-src="https://opencollective.com/tania/tiers/sponsor/badge.svg?label=sponsor&amp;color=brightgreen" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bbec89056d5709844eac054cb36741656ad93e52a143da110ba7d8bd37edf712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656d7665722d322e302e302d677265656e2e7376673f6d61784167653d32353932303030"><img src="https://camo.githubusercontent.com/bbec89056d5709844eac054cb36741656ad93e52a143da110ba7d8bd37edf712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656d7665722d322e302e302d677265656e2e7376673f6d61784167653d32353932303030" alt="塞姆弗" data-canonical-src="https://img.shields.io/badge/semver-2.0.0-green.svg?maxAge=2592000" style="max-width: 100%;"></a>
+    <a href="https://opensource.org/licenses/Apache-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/db9dfde8049c5d66ba62fde707d2cfb30e26f9f26ff274c3442c0aec1ec410a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d417061636865253230322e302d626c75652e737667" alt="执照" data-canonical-src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" style="max-width: 100%;"></a>
 </div>
-
-# Warning
-
-This is the development branch of Tania. Changes can occur nightly. If you need the stable branch you can checkout [the master branch](https://github.com/Tanibox/tania-core/tree/master).
-
-## Roadmap
-
-You can check the roadmap in [Tania's GitHub project](https://github.com/orgs/usetania/projects/6/views/1).
-
----
-
-**Tania** is a free and open source farm management software. You can manage your farm areas, farm reservoirs, farm tasks, inventories, and the crop growing progress. It is designed for any type of farms.
-
-Download Tania for Windows x64 and Linux x64 on [the release page](https://github.com/Tanibox/tania-core/releases/tag/1.7.1).
-
-![Screenshot](screenshot.PNG)
-
-## Getting Started
-
-This software is built with [Go](https://golang.org) programming language. It means you will get an executable binary to run on your machine. You **don't need** extra software like MAMP, XAMPP, or WAMP to run **Tania**, but you may need MySQL database if you choose to use it instead of SQLite *(the default database.)*
-
-If your OS is not listed on our releases page, you have to build Tania for your OS by yourself. You can follow our instructions to build **Tania**.
-
-### Prerequisites
-- [Go](https://golang.org) >= 1.16
-- [NodeJS](https://nodejs.org/en/) >= 16
-
-### Building Instructions
-
-**THIS DOCUMENTATION WILL BE UPDATED LATER**
-
-We are in the progress of building the new frontend application.
-
-### Database Engine
-
-Tania uses SQLite as the default database engine. You may use MySQL as your database engine by replacing `sqlite` with `mysql` at `tania_persistence_engine` field in your `backend/conf.json`.
-
-```
-{
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">警告</font></font></h1><a id="user-content-warning" class="anchor" aria-label="永久链接：警告" href="#warning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是Tania的开发分支。每晚都可能发生变化。如果您需要稳定分支，可以签出</font></font><a href="https://github.com/Tanibox/tania-core/tree/master"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">master 分支</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></h2><a id="user-content-roadmap" class="anchor" aria-label="永久链接：路线图" href="#roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/orgs/usetania/projects/6/views/1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在Tania 的 GitHub 项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中查看路线图</font><font style="vertical-align: inherit;">。</font></font></p>
+<hr>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tania</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一款免费开源农场管理软件。您可以管理您的农场区域、农场水库、农场任务、库存和作物生长进度。它专为任何类型的农场而设计。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/Tanibox/tania-core/releases/tag/1.7.1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在发布页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载适用于 Windows x64 和 Linux x64 的 Tania </font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/usetania/tania-core/blob/2.0-dev/screenshot.PNG"><img src="/usetania/tania-core/raw/2.0-dev/screenshot.PNG" alt="截屏" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该软件是用</font></font><a href="https://golang.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Go</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程语言构建的。这意味着您将获得一个可以在您的计算机上运行的可执行二进制文件。您</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不需要</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MAMP、XAMPP 或 WAMP 等额外软件来运行</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tania</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，但如果您选择使用 MySQL 数据库而不是 SQLite </font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（默认数据库），则可能需要 MySQL 数据库。</font></font></em></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的操作系统未在我们的发布页面上列出，您必须自己为您的操作系统构建 Tania。您可以按照我们的说明来构建</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tania</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">先决条件</font></font></h3><a id="user-content-prerequisites" class="anchor" aria-label="永久链接：先决条件" href="#prerequisites"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://golang.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&gt;= 1.16</font></font></li>
+<li><a href="https://nodejs.org/en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NodeJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &gt;= 16</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搭建说明</font></font></h3><a id="user-content-building-instructions" class="anchor" aria-label="永久链接：构建说明" href="#building-instructions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本文档稍后会更新</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们正在构建新的前端应用程序。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库引擎</font></font></h3><a id="user-content-database-engine" class="anchor" aria-label="永久链接：数据库引擎" href="#database-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tania 使用 SQLite 作为默认数据库引擎。您可以使用 MySQL 作为数据库引擎</font><font style="vertical-align: inherit;">，</font></font><code>sqlite</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需</font></font><code>mysql</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将</font><font style="vertical-align: inherit;">.</font></font><code>tania_persistence_engine</code><font style="vertical-align: inherit;"></font><code>backend/conf.json</code><font style="vertical-align: inherit;"></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>{
   "app_port": "8080",
   "tania_persistence_engine": "sqlite",
   "demo_mode": true,
@@ -62,49 +45,58 @@ Tania uses SQLite as the default database engine. You may use MySQL as your data
   ],
   "client_id": "f0ece679-3f53-463e-b624-73e83049d6ac"
 }
-```
-
-### Run The Test
-
-Use `go test ./...` inside the `backend` folder to run all the Go tests.
-
-## REST APIs
-**Tania** have REST APIs to easily integrate with any softwares, even you can build a mobile app client for it. You can import the JSON file inside Postman directory to [Postman app](https://www.getpostman.com).
-
-## Contributing to Tania
-
-We welcome contributions, but request you to follow these [guidelines](contributing.md).
-
-### Localisation
-
-You can help us to localise Tania into your language by following these steps:
-
-1. Copy `frontend/languages/template.pot` and paste it to `frontend/languages/locale` directory.
-2. Rename it with your language locale code e.g: `en_AU.po`, `de_DE.po`, etc.
-3. Fill `msgstr` key with your translation. You can edit the `.po` file by using text editor or PO Edit software.
-4. Pull request your translation to the `master` branch.
-
-### Build Tania localisation by yourself
-
-**THIS DOCUMENTATION WILL BE UPDATED LATER**
-
-We are in the progress of building the new frontend application.
-
-Then follow the instruction to [build Tania](#building-instructions).
-
-## Support Us
-
-We will move from OpenCollective to GitHub sponsorship. Thank you for all your donation in OpenCollective.
-
-### Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="https://github.com/tanibox/tania-core/graphs/contributors"><img src="https://opencollective.com/tania/contributors.svg?width=890&button=false" /></a>
-
-### Backers
-
-<a href="https://opencollective.com/tania"><img src="https://opencollective.com/tania/backers.svg?width=890&button=false" alt="backers"><img src="https://opencollective.com/tania/tiers/backer.svg?avatarHeight=36&width=600" alt="backers"></a>
-
-## Copyright and License
-
-Copyright to Tania and other contributors under [Apache 2.0](https://github.com/usetania/tania-core/blob/master/LICENSE) open source license.
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="{
+  &quot;app_port&quot;: &quot;8080&quot;,
+  &quot;tania_persistence_engine&quot;: &quot;sqlite&quot;,
+  &quot;demo_mode&quot;: true,
+  &quot;upload_path_area&quot;: &quot;uploads/areas&quot;,
+  &quot;upload_path_crop&quot;: &quot;uploads/crops&quot;,
+  &quot;sqlite_path&quot;: &quot;db/sqlite/tania.db&quot;,
+  &quot;mysql_host&quot;: &quot;127.0.0.1&quot;,
+  &quot;mysql_port&quot;: &quot;3306&quot;,
+  &quot;mysql_dbname&quot;: &quot;tania&quot;,
+  &quot;mysql_user&quot;: &quot;root&quot;,
+  &quot;mysql_password&quot;: &quot;root&quot;,
+  &quot;redirect_uri&quot;: [
+      &quot;http://localhost:8080&quot;,
+      &quot;http://127.0.0.1:8080&quot;
+  ],
+  &quot;client_id&quot;: &quot;f0ece679-3f53-463e-b624-73e83049d6ac&quot;
+}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行测试</font></font></h3><a id="user-content-run-the-test" class="anchor" aria-label="永久链接：运行测试" href="#run-the-test"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><code>go test ./...</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在文件夹内</font><font style="vertical-align: inherit;">使用</font></font><code>backend</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来运行所有 Go 测试。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">REST API</font></font></h2><a id="user-content-rest-apis" class="anchor" aria-label="永久链接：REST API" href="#rest-apis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tania</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拥有 REST API，可以轻松与任何软件集成，甚至您可以为其构建移动应用程序客户端。您可以将 Postman 目录中的 JSON 文件导入到</font></font><a href="https://www.getpostman.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Postman app</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为塔尼亚做贡献</font></font></h2><a id="user-content-contributing-to-tania" class="anchor" aria-label="永久链接：为 Tania 做出贡献" href="#contributing-to-tania"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎贡献，但要求您遵循这些</font></font><a href="/usetania/tania-core/blob/2.0-dev/contributing.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">准则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本土化</font></font></h3><a id="user-content-localisation" class="anchor" aria-label="永久链接：本地化" href="#localisation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以按照以下步骤帮助我们将 Tania 本地化为您的语言：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将其复制</font></font><code>frontend/languages/template.pot</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并粘贴到</font></font><code>frontend/languages/locale</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录中。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用您的语言区域设置代码重命名它，例如：</font></font><code>en_AU.po</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>de_DE.po</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用您的翻译填写</font></font><code>msgstr</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密钥。您可以</font></font><code>.po</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用文本编辑器或 PO Edit 软件编辑该文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将您的翻译请求拉至</font></font><code>master</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分支机构。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自己构建 Tania 本地化</font></font></h3><a id="user-content-build-tania-localisation-by-yourself" class="anchor" aria-label="永久链接：自己构建 Tania 本地化" href="#build-tania-localisation-by-yourself"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本文档稍后会更新</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们正在构建新的前端应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后按照说明</font></font><a href="#building-instructions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建 Tania</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持我们</font></font></h2><a id="user-content-support-us" class="anchor" aria-label="永久链接：支持我们" href="#support-us"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们将从 OpenCollective 转向 GitHub 赞助。感谢您对 OpenCollective 的所有捐赠。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h3><a id="user-content-contributors" class="anchor" aria-label="永久链接：贡献者" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个项目的存在要感谢所有做出贡献的人。
+</font></font><a href="https://github.com/tanibox/tania-core/graphs/contributors"><img src="https://camo.githubusercontent.com/3f1562200988897f4635357b39eca043052b46a28c920db03ec78c95e0a26e98/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365" data-canonical-src="https://opencollective.com/tania/contributors.svg?width=890&amp;button=false" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持者</font></font></h3><a id="user-content-backers" class="anchor" aria-label="永久链接：支持者" href="#backers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://opencollective.com/tania" rel="nofollow"><img src="https://camo.githubusercontent.com/8bc6775743605c95469501f053a1ae7720d90aba5d42d45f4d4d0d167675eb78/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f6261636b6572732e7376673f77696474683d38393026627574746f6e3d66616c7365" alt="支持者" data-canonical-src="https://opencollective.com/tania/backers.svg?width=890&amp;button=false" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/ef4932b72825ce4a1b24da5f5b5d99f1c392b7a39b2d1fc7138a4a73909d7b97/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f74616e69612f74696572732f6261636b65722e7376673f6176617461724865696768743d33362677696474683d363030" alt="支持者" data-canonical-src="https://opencollective.com/tania/tiers/backer.svg?avatarHeight=36&amp;width=600" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版权和许可</font></font></h2><a id="user-content-copyright-and-license" class="anchor" aria-label="永久链接：版权和许可" href="#copyright-and-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/usetania/tania-core/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据Apache 2.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源许可证，</font><font style="vertical-align: inherit;">版权归 Tania 和其他贡献者所有。</font></font></p>
+</article></div>
